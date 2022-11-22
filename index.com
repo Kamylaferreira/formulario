@@ -14,6 +14,8 @@ html>
       <label for="endereço">ENDEREÇO</label>
       <input type="text" id="endereço">
       
+      ]
+   
       <label for="data_nasc">DATA NASC</label>
       <input type="text" id="data_nasc">
       
@@ -101,3 +103,4 @@ html>
 </body>
 
 </html>
+
